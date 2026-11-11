@@ -1,0 +1,9 @@
+streamlit>=1.37
+plotly
+pandas
+numpy
+requests
+scikit-learn
+statsmodels
+shapely
+openpyxl
